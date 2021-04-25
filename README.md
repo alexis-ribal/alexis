@@ -14,6 +14,6 @@ Here you can find some of the work I've done in the past few years (work in prog
 * [Giant oil and gas field discoveries in the world 1960-2018](https://github.com/alexis-ribal/giant-oil-and-gas-field-discoveries)
 
 
-#$ Data visualization using R:
+## Data visualization using R:
 
 Coming soon!
