@@ -15,6 +15,7 @@
 ### Learning
 
 - [https://spatialthoughts.com/](https://spatialthoughts.com/)
+- [https://geemap.org/notebooks/113_image_area/](https://geemap.org/notebooks/113_image_area/)
 
 
 
