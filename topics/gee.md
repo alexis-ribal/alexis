@@ -10,4 +10,10 @@ https://code.earthengine.google.com/
 
 
 
+### Learning
+
+- https://spatialthoughts.com/
+
+
+
 
