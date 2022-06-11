@@ -1,6 +1,6 @@
 ## Python
 
-*Back to index](https://alexis-ribal.github.io/alexis/)*
+*[Back to index](https://alexis-ribal.github.io/alexis/)*
 
 [https://www.python.org/](https://www.python.org/)
 
