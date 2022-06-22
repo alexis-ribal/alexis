@@ -16,7 +16,12 @@
 
 - [https://spatialthoughts.com/](https://spatialthoughts.com/)
 - [https://geemap.org/notebooks/113_image_area/](https://geemap.org/notebooks/113_image_area/)
-- [https://geemap.org/notebooks/113_image_area/](https://geemap.org/notebooks/113_image_area/)
+
+
+## Useful resources
+
+- [Imágenes satelitales gratuitas: principales sitios web de descarga](https://geoinnova.org/blog-territorio/imagenes-satelitales-gratuitas/)
+- [Spectral Indices for Remote Sensing applications](https://github.com/awesome-spectral-indices/awesome-spectral-indices)
 
 
 
