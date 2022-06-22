@@ -6,7 +6,9 @@ Click on a topic and you will be redirected to a GitHub page.
 
 - [Google Earth Engine](topics/gee.md)
 - [Python](topics/python.md)
-
+- [DataViz](topics/dataviz.md)
+- [Cloud solutions](topics/cloud.md)
+- [Useful tools](topics/tools.md)
 
 
 
