@@ -9,6 +9,10 @@ Click on a topic and you will be redirected to a GitHub page.
 - [DataViz](topics/dataviz.md)
 - [Cloud solutions](topics/cloud.md)
 - [Useful tools](topics/tools.md)
+- [R stuff](topics/r.md)
+- [SQL](topics/sql.md)
+- [Career development](topics/career.md)
+- [Other tools](topics/tools.md)
 
 
 
