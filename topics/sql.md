@@ -14,3 +14,8 @@
 
 - [Hacker Rank](https://www.hackerrank.com/domains/sql)
 - [Leetcode](https://leetcode.com/problemset/database/)
+
+
+### Games
+- [SQL Island](https://sql-island.informatik.uni-kl.de/)
+- [SQL Police Department](https://sqlpd.com/)
