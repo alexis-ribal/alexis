@@ -12,3 +12,4 @@
 - [RemoveBG](https://www.remove.bg/): remove background of pictures
 - [Convertio](https://convertio.co/): convert file formats
 - [Microcopy](https://www.microcopy.me/): slogans
+- [WebPlotDigitizer](https://automeris.io/WebPlotDigitizer/index.html): extract data from charts as images
