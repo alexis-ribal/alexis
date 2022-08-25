@@ -12,6 +12,10 @@
 - [Select Star SQL](https://selectstarsql.com/)
 - [SQL Easy](https://www.sql-easy.com/es/)
 - [How to use Spark SQL: A hands-on tutorial](https://opensource.com/article/19/3/apache-spark-and-dataframes-tutorial)
+- [SQL Tutorial - Full Database Course for Beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY)
+- [MODE full SQL tutorial with online editor and connection to R and Python](https://mode.com/sql-tutorial/)
+- [SQL for Data Analysis by Mode](https://www.udacity.com/course/sql-for-data-analysis--ud198)
+
 
 
 ### Excercises
