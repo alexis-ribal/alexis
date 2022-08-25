@@ -8,11 +8,12 @@ Click on a topic and you will be redirected to a GitHub page.
 - [Python](topics/python.md)
 - [DataViz](topics/dataviz.md)
 - [Cloud solutions](topics/cloud.md)
-- [Useful tools](topics/tools.md)
 - [R stuff](topics/r.md)
 - [SQL](topics/sql.md)
+- [HTML and CSS](topics/html.md)
+- [Data repository](topics/data.md)
 - [Career development](topics/career.md)
-- [Other tools](topics/tools.md)
+- [Useful tools](topics/tools.md)
 
 
 
