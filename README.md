@@ -4,6 +4,7 @@ This is a place where I add links to interesting pages and resources that may us
 
 Click on a topic and you will be redirected to a GitHub page.
 
+- [Econometrics](topics/econometrics.md)
 - [Google Earth Engine](topics/gee.md)
 - [Python](topics/python.md)
 - [DataViz](topics/dataviz.md)
