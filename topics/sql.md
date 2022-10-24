@@ -15,7 +15,12 @@
 - [SQL Tutorial - Full Database Course for Beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY)
 - [MODE full SQL tutorial with online editor and connection to R and Python](https://mode.com/sql-tutorial/)
 - [SQL for Data Analysis by Mode](https://www.udacity.com/course/sql-for-data-analysis--ud198)
-
+- [SQL for Data Analysis Book](https://drive.google.com/file/d/1WvcRy11Dlu5baSSdGi3Mfp-Bi1P2kIQ4/view)
+- [SQL foundations](https://www.udemy.com/course/sql-essentials-for-beginners/)
+- [Introduction to Databases and SQL Querying](https://www.udemy.com/course/introduction-to-databases-and-sql-querying/)
+- [Oracle SQL - A Complete Introduction](https://www.udemy.com/course/introduction-to-oracle-sql/)
+- [SQL 101: A Beginners Guide to SQL](https://www.udemy.com/course/sql-101-a-beginners-guide-to-sql/)
+- [Intro to Relational Databases](https://www.udacity.com/course/intro-to-relational-databases--ud197)
 
 
 ### Excercises
