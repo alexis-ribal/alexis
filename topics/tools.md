@@ -13,3 +13,4 @@
 - [Convertio](https://convertio.co/): convert file formats
 - [Microcopy](https://www.microcopy.me/): slogans
 - [WebPlotDigitizer](https://automeris.io/WebPlotDigitizer/index.html): extract data from charts as images
+- [Jobscan](https://app.jobscan.co/scan/1): scans your resume to see matches with job description
