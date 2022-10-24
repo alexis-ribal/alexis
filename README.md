@@ -15,6 +15,7 @@ Click on a topic and you will be redirected to a GitHub page.
 - [Data repository](topics/data.md)
 - [Career development](topics/career.md)
 - [Useful tools](topics/tools.md)
+- [Machine learning](topics/ml.md)
 
 
 
